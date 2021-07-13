@@ -1,0 +1,4 @@
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.AssemblyInfo.cs

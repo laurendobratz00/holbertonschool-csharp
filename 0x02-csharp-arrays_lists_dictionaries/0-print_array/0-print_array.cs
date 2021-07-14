@@ -10,7 +10,7 @@
             }
             if (size < 0)
             {
-                Console.WriteLine("Size cannot be negative\n");
+                Console.WriteLine("Size cannot be negative");
                 return (null);
             }
             int[] newArray = new int[size];

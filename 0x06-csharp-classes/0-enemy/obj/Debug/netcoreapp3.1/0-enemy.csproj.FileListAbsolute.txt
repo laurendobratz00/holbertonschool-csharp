@@ -10,3 +10,4 @@
 /Users/2316/Documents/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp3.1/0-enemy.dll
 /Users/2316/Documents/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp3.1/0-enemy.pdb
 /Users/2316/Documents/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/netcoreapp3.1/0-enemy.genruntimeconfig.cache
+/Users/2316/Documents/holbertonschool-csharp/0x06-csharp-classes/0-enemy/bin/Debug/netcoreapp3.1/0-enemy.xml

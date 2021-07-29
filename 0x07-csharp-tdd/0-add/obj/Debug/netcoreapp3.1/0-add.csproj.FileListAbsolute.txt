@@ -1,0 +1,12 @@
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/bin/Debug/netcoreapp3.1/0-add.deps.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/bin/Debug/netcoreapp3.1/0-add.runtimeconfig.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/bin/Debug/netcoreapp3.1/0-add.runtimeconfig.dev.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/bin/Debug/netcoreapp3.1/0-add.dll
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/bin/Debug/netcoreapp3.1/0-add.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/obj/Debug/netcoreapp3.1/0-add.csprojAssemblyReference.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/obj/Debug/netcoreapp3.1/0-add.AssemblyInfoInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/obj/Debug/netcoreapp3.1/0-add.AssemblyInfo.cs
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/obj/Debug/netcoreapp3.1/0-add.csproj.CoreCompileInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/obj/Debug/netcoreapp3.1/0-add.dll
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/obj/Debug/netcoreapp3.1/0-add.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/0-add/obj/Debug/netcoreapp3.1/0-add.genruntimeconfig.cache

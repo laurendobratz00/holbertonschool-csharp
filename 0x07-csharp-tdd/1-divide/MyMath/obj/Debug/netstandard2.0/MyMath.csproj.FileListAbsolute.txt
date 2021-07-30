@@ -1,0 +1,10 @@
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.csprojAssemblyReference.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.pdb

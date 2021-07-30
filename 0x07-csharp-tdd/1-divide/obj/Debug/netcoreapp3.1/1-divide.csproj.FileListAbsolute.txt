@@ -1,0 +1,12 @@
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.deps.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.runtimeconfig.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.runtimeconfig.dev.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.dll
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.csprojAssemblyReference.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.AssemblyInfoInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.AssemblyInfo.cs
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.csproj.CoreCompileInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.dll
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.genruntimeconfig.cache

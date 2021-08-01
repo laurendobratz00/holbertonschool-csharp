@@ -1,0 +1,12 @@
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/bin/Debug/netcoreapp3.1/5-camelcase.deps.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/bin/Debug/netcoreapp3.1/5-camelcase.runtimeconfig.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/bin/Debug/netcoreapp3.1/5-camelcase.runtimeconfig.dev.json
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/bin/Debug/netcoreapp3.1/5-camelcase.dll
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/bin/Debug/netcoreapp3.1/5-camelcase.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/obj/Debug/netcoreapp3.1/5-camelcase.csprojAssemblyReference.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/obj/Debug/netcoreapp3.1/5-camelcase.AssemblyInfoInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/obj/Debug/netcoreapp3.1/5-camelcase.AssemblyInfo.cs
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/obj/Debug/netcoreapp3.1/5-camelcase.csproj.CoreCompileInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/obj/Debug/netcoreapp3.1/5-camelcase.dll
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/obj/Debug/netcoreapp3.1/5-camelcase.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/obj/Debug/netcoreapp3.1/5-camelcase.genruntimeconfig.cache

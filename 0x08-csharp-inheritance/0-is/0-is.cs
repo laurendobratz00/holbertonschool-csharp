@@ -4,6 +4,7 @@ using System.Collections.Generic;
 /// <summary>Class obj</summary>
 class Obj
 {
+    /// <summary>IsOfTypeInt</summary>
     public static bool IsOfTypeInt(object obj)
     {
         if (obj == null)

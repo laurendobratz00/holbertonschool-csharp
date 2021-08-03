@@ -1,0 +1,12 @@
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp3.1/0-is.deps.json
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp3.1/0-is.runtimeconfig.json
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp3.1/0-is.runtimeconfig.dev.json
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp3.1/0-is.dll
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp3.1/0-is.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp3.1/0-is.csprojAssemblyReference.cache
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp3.1/0-is.AssemblyInfoInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp3.1/0-is.AssemblyInfo.cs
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp3.1/0-is.csproj.CoreCompileInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp3.1/0-is.dll
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp3.1/0-is.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp3.1/0-is.genruntimeconfig.cache

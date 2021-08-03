@@ -1,0 +1,12 @@
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp3.1/2-subclass.deps.json
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp3.1/2-subclass.runtimeconfig.json
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp3.1/2-subclass.runtimeconfig.dev.json
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp3.1/2-subclass.dll
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/netcoreapp3.1/2-subclass.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp3.1/2-subclass.csprojAssemblyReference.cache
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp3.1/2-subclass.AssemblyInfoInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp3.1/2-subclass.AssemblyInfo.cs
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp3.1/2-subclass.csproj.CoreCompileInputs.cache
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp3.1/2-subclass.dll
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp3.1/2-subclass.pdb
+/Users/2316/Documents/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/netcoreapp3.1/2-subclass.genruntimeconfig.cache

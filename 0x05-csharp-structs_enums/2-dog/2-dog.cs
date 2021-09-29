@@ -13,9 +13,11 @@ struct Dog
     public string owner;
     public Rating rating;
     
-    public Poppy(int x, int y)
+    public Dog(string name, float age, string owner, Rating rating)
     {
-        this.x = x;
-        this.y = y;
+        this.name = name;
+        this.age = age;
+        this.owner = owner;
+        this.rating = rating;
     }
 }

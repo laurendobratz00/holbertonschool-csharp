@@ -1,12 +1,21 @@
-﻿using System;
+using System;
 
-namespace _2_dog
+public enum Rating {
+  Good,
+  Great,
+  Excellent
+}
+
+struct Dog
 {
-    class Program
+    public string name;
+    public float age;
+    public string owner;
+    public Rating rating;
+    
+    public Poppy(int x, int y)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        this.x = x;
+        this.y = y;
     }
 }

@@ -1,12 +1,27 @@
-﻿using System;
+using System;
 
-namespace _3_dog
+public enum Rating {
+  Good,
+  Great,
+  Excellent
+}
+
+struct Dog
 {
-    class Program
+    public string name;
+    public float age;
+    public string owner;
+    public Rating rating;
+    
+    public Dog(string name, float age, string owner, Rating rating)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        this.name = name;
+        this.age = age;
+        this.owner = owner;
+        this.rating = rating;
+    }
+    public override string ToString()
+    {
+        return "Dog Name: " + name + "\n" + "Age: " + age + "\n" + "Owner: " + owner + "\n" + "Rating: " + rating;
     }
 }

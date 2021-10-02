@@ -13,10 +13,10 @@ namespace _6_print_comb2
                 for (j = i + 1; j <= 9; j++)
                 {
                     Console.Write(i.ToString() + j.ToString());
-                    if ((i + j) != 89)
-                        Console.Write(", ");
-                    else
+                    if (i == 8 && j == 9)
                         Console.WriteLine();
+                    else
+                        Console.Write(", ");
                 }
             }
         }

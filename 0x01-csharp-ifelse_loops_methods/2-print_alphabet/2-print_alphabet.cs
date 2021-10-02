@@ -5,6 +5,11 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("abcdefghijklmnopqrstuvwxyz");
+            char i;
+            
+            for (i = 'a'; i <= 'z'; i++)
+            {
+                Console.Write(i);
+            }
         }
     }

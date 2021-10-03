@@ -4,6 +4,6 @@
     {
         public static void ThrowMsg(string msg)
         {
-            throw new ArgumentException("C is fun");
+            throw new ArgumentException(msg);
         }
     }

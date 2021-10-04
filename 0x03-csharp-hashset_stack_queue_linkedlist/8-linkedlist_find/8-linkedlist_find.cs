@@ -1,12 +1,17 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
-namespace _8_linkedlist_find
+class LList
 {
-    class Program
+    public static int FindNode(LinkedList<int> myLList, int value)
     {
-        static void Main(string[] args)
+        int i;
+        if (myLList.Contains(value) == 0)
         {
-            Console.WriteLine("Hello World!");
+            i = myLList.TakeWhile()
         }
+        else
+            return (-1);
     }
 }

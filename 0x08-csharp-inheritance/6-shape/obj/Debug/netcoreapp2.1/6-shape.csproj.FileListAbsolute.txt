@@ -9,3 +9,4 @@
 /Users/laurendobratz/Documents/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/netcoreapp2.1/6-shape.AssemblyInfo.cs
 /Users/laurendobratz/Documents/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/netcoreapp2.1/6-shape.dll
 /Users/laurendobratz/Documents/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/netcoreapp2.1/6-shape.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/bin/Debug/netcoreapp2.1/6-shape.xml

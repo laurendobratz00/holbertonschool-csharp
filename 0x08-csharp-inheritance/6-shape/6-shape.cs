@@ -19,12 +19,10 @@ class Rectangle : Shape
     ///<summary> Width </summary>
     public int Width
     {
-        ///<summary> get </summary>
         get
         {
             return _width;
         }
-        ///<summary> set</summary>
         set
         {
             if (value < 0)
@@ -41,12 +39,10 @@ class Rectangle : Shape
     ///<summary> Height </summary>
     public int Height
     {
-        ///<summary> get </summary>
         get
         {
             return _height;
         }
-        ///<summary> set </summary>
         set
         {
             if (value < 0)

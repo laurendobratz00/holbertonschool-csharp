@@ -3,6 +3,7 @@
 ///<summary> Shape </summary>
 class Shape
 {
+    ///<summary> Area </summary>
     public virtual int Area()
     {
         throw new NotImplementedException("Area() is not implemented");
@@ -12,7 +13,7 @@ class Shape
 ///<summary> Rectangle </summary>
 class Rectangle : Shape
 {
-    ///<summary> Area</summary>
+    ///<summary> Attributes </summary>
     private int _width;
     private int _height;
     public int Width

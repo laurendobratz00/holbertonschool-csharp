@@ -1,0 +1,11 @@
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.deps.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.dev.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csprojAssemblyReference.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfo.cs
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb

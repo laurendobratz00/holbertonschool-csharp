@@ -16,6 +16,7 @@ class Rectangle : Shape
     ///<summary> Attributes </summary>
     private int _width;
     private int _height;
+    ///<summary> Width </summary>
     public int Width
     {
         get
@@ -35,6 +36,7 @@ class Rectangle : Shape
         }
     }
 
+    ///<summary> Height </summary>
     public int Height
     {
         get

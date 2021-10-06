@@ -7,9 +7,10 @@ class LList
     public static int FindNode(LinkedList<int> myLList, int value)
     {
         int i;
-        if (myLList.Contains(value) == 0)
+        if (myLList.Contains(value) == true)
         {
-            i = myLList.TakeWhile()
+            i = myLList.TakeWhile(n => n != value).Count();
+            return i;
         }
         else
             return (-1);

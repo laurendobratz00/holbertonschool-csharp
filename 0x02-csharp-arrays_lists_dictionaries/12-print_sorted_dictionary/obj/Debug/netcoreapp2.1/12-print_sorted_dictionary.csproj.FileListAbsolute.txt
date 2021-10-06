@@ -1,0 +1,11 @@
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.deps.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.runtimeconfig.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.runtimeconfig.dev.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.csprojAssemblyReference.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.AssemblyInfoInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.AssemblyInfo.cs
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.pdb

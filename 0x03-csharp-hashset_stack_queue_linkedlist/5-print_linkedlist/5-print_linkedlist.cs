@@ -1,12 +1,24 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace _5_print_linkedlist
-{
-    class Program
+    class LList
     {
-        static void Main(string[] args)
+        public static LinkedList<int> CreatePrint(int size)
         {
-            Console.WriteLine("Hello World!");
+            int i = 0;
+            LinkedList<int> newList = new LinkedList<int>();
+            if (size < 0)
+                return (null);
+            if (i >= 0 && i <= size)
+            {
+                newList.AddFirst(i);
+                i++;
+            }
+            foreach (int x in newList)
+            {
+                Console.WriteLine(x.ToString());
+            }
+            return (newList);
         }
     }
-}
+

@@ -11,17 +11,24 @@ using System.Collections.Generic;
                 Console.WriteLine("Size cannot be negative");
                 return (null);
             }
-            for (int i = 0; i < size; i++)
+            if (size == 0)
             {
-                newList.Add(i);
-                Console.Write(i);
-                if (i == size - 1)
+                Console.WriteLine();
+            }
+            else
+            {
+                for (int i = 0; i < size; i++)
                 {
-                    Console.WriteLine();
-                }
-                else
-                {
-                    Console.Write(" ");
+                    newList.Add(i);
+                    Console.Write(i);
+                    if (i == size - 1)
+                    {
+                        Console.WriteLine();
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
                 }
             }
             return (newList);

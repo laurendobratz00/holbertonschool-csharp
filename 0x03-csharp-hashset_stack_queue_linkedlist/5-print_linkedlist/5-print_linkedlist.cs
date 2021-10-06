@@ -16,7 +16,10 @@ using System.Collections.Generic;
             }
             foreach (int x in newList)
             {
-                Console.WriteLine(x.ToString());
+                if (size == 0)
+                    Console.WriteLine("Linked List Length: 0");
+                else
+                    Console.WriteLine(x.ToString());
             }
             return (newList);
         }

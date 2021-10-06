@@ -8,7 +8,7 @@ using System.Collections.Generic;
             int i = size - 1;
             LinkedList<int> newList = new LinkedList<int>();
             if (size < 0)
-                return (null);
+                Console.WriteLine("Linked List Length: 0");
             while (i >= 0 && i <= size)
             {
                 newList.AddFirst(i);
@@ -16,10 +16,7 @@ using System.Collections.Generic;
             }
             foreach (int x in newList)
             {
-                if (size == 0)
-                    Console.WriteLine("Linked List Length: 0");
-                else
-                    Console.WriteLine(x.ToString());
+                Console.WriteLine(x.ToString());
             }
             return (newList);
         }

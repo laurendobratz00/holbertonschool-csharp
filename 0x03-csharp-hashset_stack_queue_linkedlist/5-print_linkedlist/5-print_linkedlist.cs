@@ -5,14 +5,14 @@ using System.Collections.Generic;
     {
         public static LinkedList<int> CreatePrint(int size)
         {
-            int i = 0;
+            int i = size - 1;
             LinkedList<int> newList = new LinkedList<int>();
             if (size < 0)
                 return (null);
-            if (i >= 0 && i <= size)
+            while (i >= 0 && i <= size)
             {
                 newList.AddFirst(i);
-                i++;
+                i--;
             }
             foreach (int x in newList)
             {

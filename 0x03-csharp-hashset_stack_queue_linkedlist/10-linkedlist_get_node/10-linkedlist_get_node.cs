@@ -9,7 +9,7 @@ using System.Linq;
             int count = 0;
             LinkedListNode<int> current = myLList.First;
 
-            if (myLList == null || n < 0)
+            if (myLList == null || n < 0 || n >= myLList.Count)
             {
                 return (0);
             }

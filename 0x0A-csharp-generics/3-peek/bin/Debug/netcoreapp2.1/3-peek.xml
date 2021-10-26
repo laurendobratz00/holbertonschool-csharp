@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-peek</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary> returns the Queue's type </summary>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary> returns the Queue's type </summary>
+        </member>
+    </members>
+</doc>

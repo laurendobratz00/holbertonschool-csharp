@@ -1,0 +1,12 @@
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.deps.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.runtimeconfig.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.runtimeconfig.dev.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.csprojAssemblyReference.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.csproj.CoreCompileInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.AssemblyInfoInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.AssemblyInfo.cs
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/netcoreapp2.1/3-peek.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/netcoreapp2.1/3-peek.xml

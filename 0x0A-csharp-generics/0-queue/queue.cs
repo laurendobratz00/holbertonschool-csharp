@@ -1,9 +1,11 @@
 ﻿using System;
 
-    class Queue<T>
+///<summary> returns the Queue's type </summary>
+class Queue<T>
+{
+    ///<summary> returns the Queue's type </summary>
+    public Type CheckType()
     {
-        public Type CheckType()
-        {
-            return (typeof(T));
-        }
+        return (typeof(T));
     }
+}

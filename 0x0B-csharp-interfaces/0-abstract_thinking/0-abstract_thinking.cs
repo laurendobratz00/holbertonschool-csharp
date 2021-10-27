@@ -9,6 +9,6 @@ abstract class Base
     public override string ToString()
     {
         Type tp = name.GetType();
-        return (name + " is a " + this.GetType());
+        return (this.name + " is a " + this.GetType());
     }
 }

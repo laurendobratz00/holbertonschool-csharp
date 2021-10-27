@@ -1,0 +1,12 @@
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/bin/Debug/netcoreapp2.1/6-generic_iteration.deps.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/bin/Debug/netcoreapp2.1/6-generic_iteration.runtimeconfig.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/bin/Debug/netcoreapp2.1/6-generic_iteration.runtimeconfig.dev.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/bin/Debug/netcoreapp2.1/6-generic_iteration.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/bin/Debug/netcoreapp2.1/6-generic_iteration.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/obj/Debug/netcoreapp2.1/6-generic_iteration.csprojAssemblyReference.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/obj/Debug/netcoreapp2.1/6-generic_iteration.csproj.CoreCompileInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/obj/Debug/netcoreapp2.1/6-generic_iteration.AssemblyInfoInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/obj/Debug/netcoreapp2.1/6-generic_iteration.AssemblyInfo.cs
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/obj/Debug/netcoreapp2.1/6-generic_iteration.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/obj/Debug/netcoreapp2.1/6-generic_iteration.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/6-generic_iteration/bin/Debug/netcoreapp2.1/6-generic_iteration.xml

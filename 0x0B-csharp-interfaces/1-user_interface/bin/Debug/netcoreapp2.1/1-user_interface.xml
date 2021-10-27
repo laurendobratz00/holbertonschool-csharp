@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-user_interface</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary> abstract class Base </summary>
+        </member>
+        <member name="F:Base.name">
+            <summary> abstract class Base </summary>
+        </member>
+    </members>
+</doc>

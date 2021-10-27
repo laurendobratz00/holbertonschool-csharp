@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-iterate_act</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary> abstract class Base </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary> name </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary> override tostring method </summary>
+        </member>
+        <member name="T:Door">
+            <summary> class Door </summary>
+        </member>
+        <member name="M:Door.#ctor(System.String)">
+            <summary> Door constructor </summary>
+        </member>
+        <member name="M:Door.Interact">
+            <summary> Interact method </summary>
+        </member>
+        <member name="T:Decoration">
+            <summary> class Decoration </summary>
+        </member>
+        <member name="F:Decoration.isQuestItem">
+            <summary> isQuestItem </summary>
+        </member>
+        <member name="P:Decoration.durability">
+            <summary> durability prop </summary>
+        </member>
+        <member name="M:Decoration.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary> constructor </summary>
+        </member>
+        <member name="M:Decoration.Interact">
+            <summary> Interact method </summary>
+        </member>
+        <member name="M:Decoration.Break">
+            <summary> Break method </summary>
+        </member>
+        <member name="T:Key">
+            <summary> class Key </summary>
+        </member>
+        <member name="P:Key.isCollected">
+            <summary> isCollected</summary>
+        </member>
+        <member name="M:Key.#ctor(System.String,System.Boolean)">
+            <summary> constructor </summary>
+        </member>
+        <member name="M:Key.Collect">
+            <summary> Collect method </summary>
+        </member>
+        <member name="T:RoomObjects">
+            <summary> class RoomObjects </summary>
+        </member>
+        <member name="M:RoomObjects.IterateAction(System.Collections.Generic.List{Base},System.Type)">
+            <summary> IterateAction method </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.deps.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.runtimeconfig.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.runtimeconfig.dev.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.csprojAssemblyReference.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.csproj.CoreCompileInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.AssemblyInfoInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.AssemblyInfo.cs
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.xml

@@ -1,10 +1,10 @@
 ﻿using System;
-///<summary> abstract class Base </summary>
 
+///<summary> abstract class Base </summary>
 public abstract class Base
 {
-    ///<summary> abstract class Base </summary>
-    public string name = "";
+    ///<summary> name </summary>
+    public string name = { get; set; }
 
     ///<summary> override tostring method </summary>
     public override string ToString()

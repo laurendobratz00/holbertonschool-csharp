@@ -6,9 +6,9 @@ public abstract class Base
     ///<summary> abstract class Base </summary>
     public string name = "";
 
+    ///<summary> override tostring method </summary>
     public override string ToString()
     {
-        ///<summary> override tostring method </summary>
         Type tp = name.GetType();
         return (name + " is a " + this.GetType());
     }

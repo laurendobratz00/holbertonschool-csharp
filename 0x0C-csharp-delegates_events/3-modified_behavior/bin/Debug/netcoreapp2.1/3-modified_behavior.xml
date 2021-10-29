@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-modified_behavior</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary> class Player </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary> Player constructor </summary>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary> Prints the player's health status </summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary> CalculateHealth delegate </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary> TakeDamage method </summary>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary> HealDamage method </summary>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary> ValidateHP method </summary>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary> ApplyModifier method </summary>
+        </member>
+        <member name="T:Modifier">
+            <summary> enum Modifier </summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary> Weak </summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary> Base </summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary> Strong </summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary> CalculateModifier delegate </summary>
+        </member>
+    </members>
+</doc>

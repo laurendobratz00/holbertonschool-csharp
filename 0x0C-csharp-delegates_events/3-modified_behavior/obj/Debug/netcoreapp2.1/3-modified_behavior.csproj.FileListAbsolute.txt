@@ -1,0 +1,12 @@
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.deps.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.runtimeconfig.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.runtimeconfig.dev.json
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.csprojAssemblyReference.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.csproj.CoreCompileInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.AssemblyInfoInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.AssemblyInfo.cs
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.dll
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.pdb
+/Users/laurendobratz/Documents/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.xml

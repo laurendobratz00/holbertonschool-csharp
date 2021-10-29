@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-validation</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary> class Player </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary> Player constructor </summary>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary> Prints the player's health status </summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary> CalculateHealth delegate </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary> TakeDamage method </summary>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary> HealDamage method </summary>
+        </member>
+    </members>
+</doc>

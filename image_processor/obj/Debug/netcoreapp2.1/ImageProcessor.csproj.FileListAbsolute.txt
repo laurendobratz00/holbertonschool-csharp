@@ -1,0 +1,4 @@
+/Users/laurendobratz/Documents/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/ImageProcessor.csprojAssemblyReference.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/ImageProcessor.csproj.CoreCompileInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/ImageProcessor.AssemblyInfoInputs.cache
+/Users/laurendobratz/Documents/holbertonschool-csharp/image_processor/obj/Debug/netcoreapp2.1/ImageProcessor.AssemblyInfo.cs

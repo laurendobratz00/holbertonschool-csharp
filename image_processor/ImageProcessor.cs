@@ -1,25 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Runtime.InteropServices;
+using System.Drawing;
+using System.Drawing.Imaging;
+using System.Threading.Tasks;
 
-namespace ImageProcessor
+
+///<summary> image processing </summary>
+public class ImageProcessor
 {
-    class ImageProcessor
+    ///<summary> a method that inverts an image’s color </summary>
+    public static void Inverse(string[] filenames)
     {
-        public static void Inverse(string[] filenames)
-        {
-            if (ofdLoad.ShowDialog() == DialogResult.OK)
-            {
-                try
-                {
-                    Image imgSource = Image.FromFile(ofdLoad.FileName);
-                    picDisplay.Image = imgSource;
-                }
-                catch (Exception)
-                {
-                    MessageBox.Show("Invalid image");
-                }
-            }
-        }
+        Parallel.ForEach (filenames, file => {
+            CreateInverse(file);
+        });
     }
 }
 

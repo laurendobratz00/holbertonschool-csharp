@@ -2,8 +2,10 @@
 
 namespace _3_print_alphabt
 {
+    /// <summary> class Program </summary>
     class Program
     {
+        /// <summary> print alphabet </summary>
         static void Main(string[] args)
         {
             char i;

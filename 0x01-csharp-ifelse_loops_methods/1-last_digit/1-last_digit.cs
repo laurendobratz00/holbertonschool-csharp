@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary> class Program </summary>
 class Program
 {
+    /// <summary> scipt testing greater than or less than </summary>
     static void Main(string[] args)
     {
         Random rndm = new Random();

@@ -2,8 +2,10 @@
 
 namespace _12_fizzbuzz
 {
+    /// <summary> class Program </summary>
     class Program
     {
+        /// <summary> print fizz, buzz, and fizzbuzz in a crazy format </summary>
         static void Main(string[] args)
         {
 	        int i;

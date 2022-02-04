@@ -2,8 +2,10 @@
 
 namespace _6_print_comb2
 {
+    /// <summary> class Program </summary>
     class Program
     {
+        /// <summary> print comb </summary>
         static void Main(string[] args)
         {
             int i, j;

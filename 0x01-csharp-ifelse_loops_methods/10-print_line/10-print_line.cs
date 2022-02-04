@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary> class Line </summary>
 class Line
 {
+    /// <summary> print line to the length given </summary>
     public static void PrintLine(int length)
     {
         if (length <= 0)

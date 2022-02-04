@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary> class Program </summary>
 class Program
 {
+        /// <summary> copy, cut, paste - not allowed to use any loops or conditional statements </summary>
         static void Main(string[] args)
         {
 		string word = "Holberton";

@@ -1,5 +1,6 @@
 ﻿using System;
 
+/// <summary> script that shows how to print specifiers </summary>
 class Program
 {
 	static void Main(string[] args)

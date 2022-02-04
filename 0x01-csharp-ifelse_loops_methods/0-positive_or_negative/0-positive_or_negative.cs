@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary> class Program </summary>
 class Program
 {
+    /// <summary> takes user input and tells whether it's 0, pos, or neg </summary>
     static void Main(string[] args)
     {
         Random rndm = new Random();

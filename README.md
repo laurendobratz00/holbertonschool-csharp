@@ -1,6 +1,6 @@
 # holbertonschool-csharp
 
-![Alt Text](<img width="693" alt="Screen Shot 2022-02-03 at 8 21 47 PM" src="https://user-images.githubusercontent.com/61027706/152462012-915443e8-98da-4bef-8eb4-a8eaca5cdf93.png">)
+![Alt Text](https://user-images.githubusercontent.com/61027706/152462012-915443e8-98da-4bef-8eb4-a8eaca5cdf93.png)
 
 ## Description
 This is a C# repository simply focusing on practicing this language using some .NET framework along the way. Some code in this repo is linked to Unity projects.

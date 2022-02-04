@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary> class Line </summary>
 class Line
 {
+    /// <summary> print diagonal line </summary>
     public static void PrintDiagonal(int length)
     {
         if (length <= 0)

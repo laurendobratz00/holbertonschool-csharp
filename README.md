@@ -6,7 +6,8 @@
 This is a C# repository simply focusing on practicing this language using some .NET framework along the way. Some code in this repo is linked to Unity projects.
 
 ## Packages/Prerequisites
-* .NET version 2.1.818]
+* .NET Core SDK version 2.1.818
+* Visual Studio Code
 * Unity
 * UnityHub
 * C#
